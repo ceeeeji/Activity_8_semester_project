@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # semester_project
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Activity_8_semester_project
+Flutter Web starter project for IT 110 Activity 8, featuring an organized Dart source structure, initial Home and Login screens, and Git/GitHub version control setup.
+>>>>>>> 07e22a13bd8cb930eccc901e4dee8e55c5d3f8d3
